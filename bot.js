@@ -1,7 +1,7 @@
 ﻿const Discord = require("discord.js");
 const client = new Discord.Client();
 const client2 = new Discord.Client();
-const myid = ['519573947264532480'];
+const myid = ['538467087769927800'];
 const prefix = ['!'];
 client.on('ready', () => {
    console.log(`----------------`);
